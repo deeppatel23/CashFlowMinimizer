@@ -4,4 +4,4 @@ Given a number of friends who have to give or take some amount of money from one
 
 * In this application, you can find minimum cash flow between n people. Inser data in the table where cell represent the value person i has to pay to person j. On computing the result, you will get answer with minimum cash flow between persons.
 
-* This algo uses `#Graph` and `#Greedy` method. Time complexity is `O(n^2)`. Using adjacency list can reduce time complexity to `O(nlogn)`. 
+* This algo uses `#Graph` and `#Greedy` method. Time complexity is `O(n^2)`. Using min heap and max heap, the time complexity can be reduced to `O(nlogn)`. 
